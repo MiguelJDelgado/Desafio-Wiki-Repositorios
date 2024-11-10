@@ -14,8 +14,12 @@ export const ItemContainer = styled.div`
         margin-bottom:20px;
     }
 
+    a.ver{
+        color: #FFFFFF
+    }
+
     a.remover {
-        color: #FF0000;
+        color: #FFFFFF;
         margin-top:20px;
     }
 
